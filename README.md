@@ -1,0 +1,2 @@
+# weblords
+A simple website.
