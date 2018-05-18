@@ -5,7 +5,7 @@ body {
   background-color: #fff0f0
 }
 .button {
- color: #000000;
+ color: #ffffff;
  display: inline-block;
  padding: 32px 12px;
  border: 2px solid #00ffff;
@@ -14,5 +14,6 @@ body {
 }
 .button:hover {
  color: #00ffff;
- background-color: #000000;
+ background-color: #ffffff;
+ transition-duration: 0.3s;
 }
