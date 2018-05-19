@@ -1,4 +1,4 @@
-     .nav {
+.nav {
  color: #ffffff;
  display: inline-block;
  padding: 12px 32px;
@@ -20,7 +20,7 @@ body {
   background-color: #fff0f0
 }
 .button {
- width: 100%;
+ width: 200px;
  color: #ffffff;
  display: inline-block;
  padding: 12px 80px;
