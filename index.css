@@ -4,11 +4,11 @@
  padding: 12px 32px;
  border: 2px solid #fff0f0;
  border-radius: 3px;
- background-color: #fff0f0;
+ background-color: transparent;
 }
 .nav-content {
   display: none;
-  background-color: #ffffff;
+  background-color: #ff0f0;
 }
 .nav:hover .nav-content {
  display: block; 
