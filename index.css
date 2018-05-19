@@ -17,19 +17,3 @@ body {
  background-color: #ffffff;
  transition-duration: 0.3s;
 }
-.nav-button {
- color: #ffffff;
- display: inline-block;
- padding: 12px 32px;
- border: 2px solid #fff0f0;
- border-radius: 3px;
- background-color: #fff0f0;
-}
-.nav {
-  display: none;
-  background-color: #ffffff;
-}
-  {
-.nav-button:hover .nav {
- display: block; 
-}
