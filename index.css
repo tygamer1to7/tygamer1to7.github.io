@@ -5,6 +5,19 @@ body {
   background-color: #fff0f0
 }
 .button {
+
+ color: #ffffff;
+ display: inline-block;
+ padding: 12px 32px;
+ border: 2px solid #00ffff;
+ border-radius: 3px;
+ background-color: #00ffff;}
+.button:hover {
+ color: #00ffff;
+ background-color: #ffffff;
+ transition-duration: 0.3s;
+}
+.nav-button {
  color: #ffffff;
  display: inline-block;
  padding: 12px 32px;
@@ -12,8 +25,9 @@ body {
  border-radius: 3px;
  background-color: #00ffff;
 }
-.button:hover {
- color: #00ffff;
- background-color: #ffffff;
- transition-duration: 0.3s;
+.nav-button:hover .nav {
+ display: block; 
 }
+nav {
+  display: none;
+  {
