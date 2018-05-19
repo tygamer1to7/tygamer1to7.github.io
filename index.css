@@ -28,6 +28,6 @@ body {
 .nav-button:hover .nav {
  display: block; 
 }
-nav {
+.nav {
   display: none;
   {
