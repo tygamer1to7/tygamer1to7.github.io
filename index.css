@@ -2,7 +2,7 @@
  color: #ffffff;
  display: inline-block;
  padding: 12px 32px;
- border-radius: 3px;
+ border: none;
  background-color: transparent;
 }
 .nav-content {
