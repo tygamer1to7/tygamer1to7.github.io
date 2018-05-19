@@ -33,3 +33,15 @@ body {
  background-color: #ffffff;
  transition-duration: 0.3s;
 }
+.nav-box {
+  width:200px;
+  color: #ffffff;
+  background-color: #00ffff;
+  border: 2px solid #00ffff
+}
+.nav-button:hover
+{
+ color: #00ffff
+ background-color: #ffffff;
+ transition-duration: 0.3s;
+}
