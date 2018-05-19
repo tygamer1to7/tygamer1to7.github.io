@@ -25,9 +25,10 @@ body {
  border-radius: 3px;
  background-color: #00ffff;
 }
+.nav {
+  display: none;
+}
+  {
 .nav-button:hover .nav {
  display: block; 
 }
-.nav {
-  display: none;
-  {
