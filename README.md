@@ -1,2 +1,2 @@
 # weblords
-A simple website.
+A website.
