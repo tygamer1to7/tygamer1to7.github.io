@@ -21,23 +21,24 @@ body {
   color:transparent;
 }
 .nav-button {
- width: 200px;
+ width: 250px;
  text-align: center;
  color: #ffffff;
  display: inline-block;
  border: 2px solid #00ffff;
  border-radius: 3px;
  background-color: #00ffff;}
-.button:hover {
+.nav-button:hover {
  color: #00ffff;
  background-color: #ffffff;
  transition-duration: 0.3s;
 }
 .nav-box {
-  width:200px;
+  width:250px;
   color: #ffffff;
   background-color: #00ffff;
   border: 2px solid #00ffff
+  align: center;
 }
 .nav-box:hover
 {
