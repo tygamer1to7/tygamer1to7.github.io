@@ -21,7 +21,7 @@ body {
   color:transparent;
 }
 .nav-button {
- width: 50px;
+ width: 100px;
  text-align: center;
  color: #ffffff;
  display: inline-block;
@@ -34,7 +34,7 @@ body {
  transition-duration: 0.3s;
 }
 .nav-box {
-  width:50px;
+  width:100px;
   color: #ffffff;
   background-color: #00ffff;
   border: 2px solid #00ffff
