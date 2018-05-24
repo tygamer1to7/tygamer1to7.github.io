@@ -6,7 +6,7 @@ body {
  display: inline-block;
  padding: 12px 32px;
  border: none;
- background-color: transparent;
+ background-color: #ffffff;
 }
 .nav-content {
   display: none;
