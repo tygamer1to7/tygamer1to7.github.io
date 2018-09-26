@@ -1,2 +1,0 @@
-# weblords
-A website.
