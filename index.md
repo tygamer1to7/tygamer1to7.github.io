@@ -3,4 +3,4 @@
 alert("Hello!");
 alert("Bye!");
 ```
-<title>Meow</title>
+{% include title.html %}
