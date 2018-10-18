@@ -7,6 +7,6 @@ h5 {font-family: 'Roboto', sans-serif; color: white; }
 h6 {font-family: 'Roboto', sans-serif; color: white; }
 p {font-family: 'Roboto', sans-serif; color: white; }
 span {font-family: 'Roboto', sans-serif; color: white; }
-.heading { background-color: #EAEAEA; overflow: hidden; width: 100%; height: 10%; position: fixed;}
+heading { background-color: #EAEAEA; overflow: hidden; width: 100%; height: 10%; position: fixed;}
 body { background-color: #030303; }
 .header { text-align: center; font-family: 'Roboto', sans-serif; color: white;}
